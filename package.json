@@ -1,0 +1,14 @@
+{
+  "name": "prismath",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "tsx src/main.ts",
+    "test": "vitest run"
+  },
+  "license": "Unlicense",
+  "dependencies": {
+    "@fast-csv/parse": "^5.0.2",
+    "tsx": "^4.19.2",
+    "vitest": "^2.1.4"
+  }
+}
