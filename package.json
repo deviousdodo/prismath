@@ -9,8 +9,10 @@
   "license": "Unlicense",
   "dependencies": {
     "@fast-csv/parse": "^5.0.2",
+    "@types/node": "^22.8.2",
     "prettier": "^3.3.3",
     "tsx": "^4.19.2",
+    "typescript": "^5.6.3",
     "vitest": "^2.1.4"
   }
 }
